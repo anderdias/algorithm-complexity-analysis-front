@@ -1,18 +1,17 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <h1>P4ul1n m1l gr4u</h1>
+    <upload-drop-area />
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue';
+import UploadDropArea from '@/components/upload-drop-area.vue';
 
 export default {
   name: 'Home',
   components: {
-    HelloWorld,
+    UploadDropArea,
   },
 };
 </script>
