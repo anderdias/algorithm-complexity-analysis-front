@@ -1,5 +1,5 @@
 <template>
-  <div class="home">
+  <div>
     <h1>P4ul1n m1l gr4u</h1>
     <upload-drop-area />
   </div>
