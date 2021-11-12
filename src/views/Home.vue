@@ -1,6 +1,6 @@
 <template>
   <div class="h-screen w-screen sm:px-8 md:px-16 sm:py-8 bg-gray-100">
-    <h1>P4ul1n m1l gr4u</h1>
+    <h1>Prediction Complexity</h1>
     <div class="flex flex-col items-center content-center">
       <div class="w-96 bg-white rounded-t py-3 px-4">
         <upload-drop-area
